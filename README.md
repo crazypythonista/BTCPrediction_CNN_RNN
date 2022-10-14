@@ -1,2 +1,11 @@
-# BTCPrediction_CNN_RNN
-BTC price prediction using CNN, RNN algorithms.
+# Bitcoin-prediction-CNN-RNN
+Creates two models based on CNN and RNN 
+
+CNN models predicts if the Bitcoin price with go up or down in next 9 mins. 
+RNN models predicts the bitcoin price for next 9 mins.
+
+Note: 
+Since, the models uses two different methods, the predictions are out of sync. 
+
+RNN model is based on the code from https://github.com/PiSimo/BitcoinForecast
+
